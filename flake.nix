@@ -37,6 +37,7 @@
               };
               packages = [
                 pkgs.nixpkgs-fmt
+                pkgs.gh
               ];
             }
           ];
