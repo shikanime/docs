@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 110,
-      "versionNonce": 1598949520,
+      "version": 113,
+      "versionNonce": 704314757,
       "isDeleted": false,
       "id": "HmchYYVIqfSc1XVQGoQ-_",
       "fillStyle": "hachure",
@@ -28,9 +28,17 @@
         {
           "id": "3m3JEt60K2fUnwZPRKdk0",
           "type": "arrow"
+        },
+        {
+          "id": "jM2oRTuc06gHx0dkjk88i",
+          "type": "arrow"
+        },
+        {
+          "id": "haSEI9R-Vj58by3sEFrrn",
+          "type": "arrow"
         }
       ],
-      "updated": 1683877058297,
+      "updated": 1683881107805,
       "link": "https://synthesesynergies.com/article/liveops-ou-comment-le-jeu-video-se-modernise",
       "locked": false,
       "fontSize": 20,
@@ -45,8 +53,8 @@
     },
     {
       "type": "text",
-      "version": 45,
-      "versionNonce": 182487152,
+      "version": 46,
+      "versionNonce": 1367062309,
       "isDeleted": false,
       "id": "iYflXKd4kFuoGy_CVxj-s",
       "fillStyle": "hachure",
@@ -74,7 +82,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1683877058298,
+      "updated": 1683879164076,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -191,8 +199,8 @@
     },
     {
       "type": "text",
-      "version": 81,
-      "versionNonce": 2006873744,
+      "version": 82,
+      "versionNonce": 1587181995,
       "isDeleted": false,
       "id": "p9y4QotC5Iw82KAl2r8xI",
       "fillStyle": "hachure",
@@ -224,7 +232,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1683877058299,
+      "updated": 1683879164077,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -239,8 +247,8 @@
     },
     {
       "type": "text",
-      "version": 29,
-      "versionNonce": 815135344,
+      "version": 30,
+      "versionNonce": 1235454597,
       "isDeleted": false,
       "id": "5KbljWkhV8KkLbcpeqo4i",
       "fillStyle": "hachure",
@@ -264,7 +272,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1683877058299,
+      "updated": 1683879164078,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -279,8 +287,8 @@
     },
     {
       "type": "text",
-      "version": 62,
-      "versionNonce": 1202791568,
+      "version": 64,
+      "versionNonce": 1216038987,
       "isDeleted": false,
       "id": "EberXSaxT35wlVNOlS2OY",
       "fillStyle": "hachure",
@@ -302,9 +310,13 @@
         {
           "id": "Kc3f3VcqyagMvcZ4HLAjz",
           "type": "arrow"
+        },
+        {
+          "id": "FGnimawJfcWYvP-b0_KCZ",
+          "type": "arrow"
         }
       ],
-      "updated": 1683877058300,
+      "updated": 1683879185086,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -472,8 +484,8 @@
     },
     {
       "type": "text",
-      "version": 152,
-      "versionNonce": 583871600,
+      "version": 153,
+      "versionNonce": 1211757029,
       "isDeleted": false,
       "id": "FzF27yS_2YpjxQG63Htih",
       "fillStyle": "hachure",
@@ -501,7 +513,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1683877058300,
+      "updated": 1683879164079,
       "link": "https://go.sensortower.com/rs/351-RWH-315/images/state-of-mobile-gaming-2023.pdf",
       "locked": false,
       "fontSize": 20,
@@ -513,6 +525,243 @@
       "originalText": "The State of Mobile Gaming 2023",
       "lineHeight": 1.25,
       "baseline": 18
+    },
+    {
+      "id": "eHF7ouW8GTqiXKpX60NTC",
+      "type": "text",
+      "x": 3369.266082763672,
+      "y": -930.079345703125,
+      "width": 552.3795776367188,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1329101989,
+      "version": 117,
+      "versionNonce": 1906781931,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "jM2oRTuc06gHx0dkjk88i",
+          "type": "arrow"
+        },
+        {
+          "id": "FGnimawJfcWYvP-b0_KCZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1683879186219,
+      "link": null,
+      "locked": false,
+      "text": "\"Dans Guild Wars 2, mon équipe et moi avions remarqué\n que les motivations étaient surtout sociales. \"",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "\"Dans Guild Wars 2, mon équipe et moi avions remarqué\n que les motivations étaient surtout sociales. \"",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "jM2oRTuc06gHx0dkjk88i",
+      "type": "arrow",
+      "x": 3761.56989804386,
+      "y": -1130.85546875,
+      "width": 134.03937063026478,
+      "height": 192.15789794921875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1062420133,
+      "version": 87,
+      "versionNonce": 1314396555,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1683879186219,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -134.03937063026478,
+          192.15789794921875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "HmchYYVIqfSc1XVQGoQ-_",
+        "focus": 0.12350533972833387,
+        "gap": 8.0067138671875
+      },
+      "endBinding": {
+        "elementId": "eHF7ouW8GTqiXKpX60NTC",
+        "focus": -0.14091164003762002,
+        "gap": 8.61822509765625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "FGnimawJfcWYvP-b0_KCZ",
+      "type": "arrow",
+      "x": 3477.4721417600385,
+      "y": -1121.02734375,
+      "width": 126.31995197089873,
+      "height": 179.79071044921864,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1023223147,
+      "version": 108,
+      "versionNonce": 1188212779,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1683879186219,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          126.31995197089873,
+          179.79071044921864
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "EberXSaxT35wlVNOlS2OY",
+        "focus": 0.3428357271497458,
+        "gap": 12.77850341796875
+      },
+      "endBinding": {
+        "elementId": "eHF7ouW8GTqiXKpX60NTC",
+        "focus": -0.05535186916739628,
+        "gap": 11.15728759765625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "aA13Zz9slI4uq9eFO1d_g",
+      "type": "text",
+      "x": 4096.466400146484,
+      "y": -926.9307250976562,
+      "width": 416.0397033691406,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 218198731,
+      "version": 27,
+      "versionNonce": 858457317,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "haSEI9R-Vj58by3sEFrrn",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1683881107806,
+      "link": "https://youtu.be/I7755b0nY0I",
+      "locked": false,
+      "text": "Beyond Games as a Service with Live Ops",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Beyond Games as a Service with Live Ops",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "haSEI9R-Vj58by3sEFrrn",
+      "type": "arrow",
+      "x": 3815.7989196777344,
+      "y": -1128.75390625,
+      "width": 471,
+      "height": 197.296875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2007901067,
+      "version": 45,
+      "versionNonce": 748677099,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1683881107814,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          471,
+          197.296875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "HmchYYVIqfSc1XVQGoQ-_",
+        "focus": 0.16835839549724035,
+        "gap": 10.1082763671875
+      },
+      "endBinding": {
+        "elementId": "aA13Zz9slI4uq9eFO1d_g",
+        "focus": 0.09652280570321915,
+        "gap": 4.52630615234375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
     }
   ],
   "appState": {
