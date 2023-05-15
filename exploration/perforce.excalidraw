@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Wguj4hujZUH8Ew1OtowFf",
+      "type": "text",
+      "x": 502.9022216796875,
+      "y": 613.374267578125,
+      "width": 448.6996154785156,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 593393334,
+      "version": 46,
+      "versionNonce": 1038136502,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684109481561,
+      "link": "https://youtu.be/YKMDdtX-8gM",
+      "locked": false,
+      "text": "Source Control & Remote Team Collaboration",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Source Control & Remote Team Collaboration",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
