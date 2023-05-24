@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 45,
-      "versionNonce": 1504160306,
+      "version": 46,
+      "versionNonce": 157112464,
       "isDeleted": false,
       "id": "rUpc34Eg9EbTJgA8QFRtW",
       "fillStyle": "hachure",
@@ -38,7 +38,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551025,
+      "updated": 1684972013922,
       "link": "https://datatonic.com/insights/tensorflow-transform-bigquery-data-transformation",
       "locked": false,
       "fontSize": 20,
@@ -141,8 +141,8 @@
     },
     {
       "type": "text",
-      "version": 55,
-      "versionNonce": 899992046,
+      "version": 56,
+      "versionNonce": 1210988656,
       "isDeleted": false,
       "id": "AA_MQvG5q7TGkdPypJAU1",
       "fillStyle": "hachure",
@@ -170,7 +170,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551027,
+      "updated": 1684972013923,
       "link": "https://feast.dev/",
       "locked": false,
       "fontSize": 20,
@@ -185,8 +185,8 @@
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 2069337074,
+      "version": 54,
+      "versionNonce": 1128515216,
       "isDeleted": false,
       "id": "FCGKsLwXErePGt5pVXmUF",
       "fillStyle": "hachure",
@@ -218,7 +218,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551029,
+      "updated": 1684972013924,
       "link": "https://datatonic.com/insights/bigquery-memorystore-feast-feature-store/",
       "locked": false,
       "fontSize": 20,
@@ -335,8 +335,8 @@
     },
     {
       "type": "text",
-      "version": 33,
-      "versionNonce": 915495982,
+      "version": 34,
+      "versionNonce": 1487776368,
       "isDeleted": false,
       "id": "vmBg_AIZJy3sSkxz5DAYa",
       "fillStyle": "hachure",
@@ -360,7 +360,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551030,
+      "updated": 1684972013924,
       "link": "https://datatonic.com/insights/cloud-functions-cloud-run-model-serving",
       "locked": false,
       "fontSize": 20,
@@ -426,8 +426,8 @@
     },
     {
       "type": "text",
-      "version": 159,
-      "versionNonce": 988038578,
+      "version": 160,
+      "versionNonce": 304903312,
       "isDeleted": false,
       "id": "-ilZ0jgjLb36GXUiyTlaZ",
       "fillStyle": "hachure",
@@ -455,7 +455,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551031,
+      "updated": 1684972013925,
       "link": "https://cloud.google.com/vertex-ai/docs/featurestore/serving-batch",
       "locked": false,
       "fontSize": 20,
@@ -470,8 +470,8 @@
     },
     {
       "type": "text",
-      "version": 55,
-      "versionNonce": 145860206,
+      "version": 56,
+      "versionNonce": 1282333808,
       "isDeleted": false,
       "id": "ovkZOkCjnXJjXcv7rUMne",
       "fillStyle": "hachure",
@@ -495,7 +495,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551032,
+      "updated": 1684972013925,
       "link": "https://youtu.be/DaNv-Wf1MBA",
       "locked": false,
       "fontSize": 20,
@@ -598,8 +598,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 1485109618,
+      "version": 53,
+      "versionNonce": 466576016,
       "isDeleted": false,
       "id": "Hg-_pTNJFWcYELUQL8sJ4",
       "fillStyle": "hachure",
@@ -635,7 +635,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969946944,
+      "updated": 1684972013926,
       "link": "https://cloud.google.com/vertex-ai/docs/featurestore",
       "locked": false,
       "fontSize": 20,
@@ -803,8 +803,8 @@
     },
     {
       "type": "text",
-      "version": 24,
-      "versionNonce": 1020176558,
+      "version": 25,
+      "versionNonce": 1429851760,
       "isDeleted": false,
       "id": "QW5EGRyj7szGKOSal8smc",
       "fillStyle": "hachure",
@@ -832,7 +832,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551033,
+      "updated": 1684972013926,
       "link": "https://medium.com/google-cloud/how-do-you-use-feature-store-in-the-mlops-process-on-vertex-ai-802ddca2cac4",
       "locked": false,
       "fontSize": 20,
@@ -986,8 +986,8 @@
     },
     {
       "type": "text",
-      "version": 260,
-      "versionNonce": 995098930,
+      "version": 311,
+      "versionNonce": 386855024,
       "isDeleted": false,
       "id": "XioK68yFrQtxMpgw8Qilu",
       "fillStyle": "hachure",
@@ -996,8 +996,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2542.03530576549,
-      "y": -863.4306290390989,
+      "x": 2814.97309749382,
+      "y": -856.6439761628096,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 513.779541015625,
@@ -1013,9 +1013,13 @@
         {
           "id": "iEfKz83o8s3lfHL02tn9Z",
           "type": "arrow"
+        },
+        {
+          "id": "9XBt1yq4atOmhjh8wAiuL",
+          "type": "arrow"
         }
       ],
-      "updated": 1684969551034,
+      "updated": 1684972119207,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1030,8 +1034,8 @@
     },
     {
       "type": "text",
-      "version": 183,
-      "versionNonce": 1653695214,
+      "version": 184,
+      "versionNonce": 735477872,
       "isDeleted": false,
       "id": "_nnAcyQMECx5wys2ndkXt",
       "fillStyle": "hachure",
@@ -1055,7 +1059,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551035,
+      "updated": 1684972013928,
       "link": "https://www.tensorflow.org/tfx/guide/tfdv",
       "locked": false,
       "fontSize": 20,
@@ -1070,8 +1074,8 @@
     },
     {
       "type": "text",
-      "version": 209,
-      "versionNonce": 1406995186,
+      "version": 210,
+      "versionNonce": 52690576,
       "isDeleted": false,
       "id": "DMaEVYABdbLIH-II8mIW1",
       "fillStyle": "hachure",
@@ -1103,7 +1107,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551036,
+      "updated": 1684972013928,
       "link": "https://cloud.google.com/architecture/ml-modeling-monitoring-analyzing-training-server-skew-in-ai-platform-prediction-with-tfdv",
       "locked": false,
       "fontSize": 20,
@@ -1118,8 +1122,8 @@
     },
     {
       "type": "text",
-      "version": 300,
-      "versionNonce": 746771758,
+      "version": 301,
+      "versionNonce": 806154864,
       "isDeleted": false,
       "id": "OMJlrFqeYgiDzMO8vQYg4",
       "fillStyle": "hachure",
@@ -1171,7 +1175,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551037,
+      "updated": 1684972013929,
       "link": "https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic",
       "locked": false,
       "fontSize": 20,
@@ -1186,8 +1190,8 @@
     },
     {
       "type": "arrow",
-      "version": 783,
-      "versionNonce": 439841852,
+      "version": 933,
+      "versionNonce": 948422768,
       "isDeleted": false,
       "id": "69zkUptS6QNQoqXdQw3k_",
       "fillStyle": "hachure",
@@ -1196,29 +1200,29 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2993.6985682150676,
-      "y": -1062.1389751295628,
+      "x": 3266.6468135153177,
+      "y": -1055.1935082234072,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 207.24882422382234,
-      "height": 187.27648106346226,
+      "width": 207.23958244453706,
+      "height": 187.11766703359592,
       "seed": 1302677508,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949721150,
+      "updated": 1684972119230,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "dPPgfDE_tgLcFk9JzKpNz",
-        "focus": -0.38407138188301676,
+        "focus": -0.3843550001224443,
         "gap": 22.007877913721245
       },
       "endBinding": {
         "elementId": "XioK68yFrQtxMpgw8Qilu",
-        "focus": -0.14390895411885726,
+        "focus": -0.1439089541188584,
         "gap": 11.431865027001663
       },
       "lastCommittedPoint": null,
@@ -1230,8 +1234,8 @@
           0
         ],
         [
-          -207.24882422382234,
-          187.27648106346226
+          -207.23958244453706,
+          187.11766703359592
         ]
       ]
     },
@@ -1339,8 +1343,8 @@
     },
     {
       "type": "text",
-      "version": 240,
-      "versionNonce": 1906498738,
+      "version": 241,
+      "versionNonce": 1497738384,
       "isDeleted": false,
       "id": "pGBw-f__yjDfBjN2LiZu5",
       "fillStyle": "hachure",
@@ -1364,7 +1368,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551038,
+      "updated": 1684972013930,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1516,8 +1520,8 @@
     },
     {
       "type": "text",
-      "version": 75,
-      "versionNonce": 336330606,
+      "version": 76,
+      "versionNonce": 145040496,
       "isDeleted": false,
       "id": "E6iV5iRI9Z5wArNHZASQ1",
       "fillStyle": "hachure",
@@ -1549,7 +1553,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551039,
+      "updated": 1684972013932,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1615,8 +1619,8 @@
     },
     {
       "type": "image",
-      "version": 171,
-      "versionNonce": 1194165252,
+      "version": 219,
+      "versionNonce": 849369232,
       "isDeleted": false,
       "id": "dPPgfDE_tgLcFk9JzKpNz",
       "fillStyle": "hachure",
@@ -1625,8 +1629,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2903.851218147459,
-      "y": -1252.6797200252975,
+      "x": 3176.789009875789,
+      "y": -1245.7342531191418,
       "strokeColor": "transparent",
       "backgroundColor": "transparent",
       "width": 248.04232438885055,
@@ -1648,7 +1652,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684949735668,
+      "updated": 1684972119207,
       "link": "",
       "locked": false,
       "status": "pending",
@@ -1660,8 +1664,8 @@
     },
     {
       "type": "text",
-      "version": 74,
-      "versionNonce": 38303346,
+      "version": 123,
+      "versionNonce": 362536048,
       "isDeleted": false,
       "id": "_gf-oNjLIfVg7jHAJf_AC",
       "fillStyle": "hachure",
@@ -1670,8 +1674,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 3181.5899632745445,
-      "y": -942.5274427138727,
+      "x": 3454.5277550028745,
+      "y": -935.5819758077171,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 698.91943359375,
@@ -1685,7 +1689,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551040,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1700,8 +1704,8 @@
     },
     {
       "type": "arrow",
-      "version": 128,
-      "versionNonce": 433024132,
+      "version": 276,
+      "versionNonce": 659896944,
       "isDeleted": false,
       "id": "WieiAqlKr9L5g_sZg_CGs",
       "fillStyle": "hachure",
@@ -1710,8 +1714,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 3004.5790701680453,
-      "y": -1067.3016150951435,
+      "x": 3277.5168618963753,
+      "y": -1060.3561481889878,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 408.7730573160834,
@@ -1722,17 +1726,17 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949721151,
+      "updated": 1684972119231,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "dPPgfDE_tgLcFk9JzKpNz",
-        "focus": 0.921874701355472,
+        "focus": 0.9219945959948965,
         "gap": 16.845237948140607
       },
       "endBinding": {
         "elementId": "_gf-oNjLIfVg7jHAJf_AC",
-        "focus": 0.28144854609679076,
+        "focus": 0.281448546096789,
         "gap": 19.63995564624406
       },
       "lastCommittedPoint": null,
@@ -1853,8 +1857,8 @@
     },
     {
       "type": "arrow",
-      "version": 241,
-      "versionNonce": 387695292,
+      "version": 337,
+      "versionNonce": 112161936,
       "isDeleted": false,
       "id": "94x8P_5JlK5kgyyrcTi-K",
       "fillStyle": "hachure",
@@ -1863,19 +1867,19 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2797.9093059225706,
+      "x": 2806.132803209533,
       "y": -1580.7029694109551,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 212.7133022659018,
-      "height": 310.0221380685805,
+      "width": 426.2267830246715,
+      "height": 316.9676049747361,
       "seed": 1968918532,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949846248,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1897,15 +1901,15 @@
           0
         ],
         [
-          212.7133022659018,
-          310.0221380685805
+          426.2267830246715,
+          316.9676049747361
         ]
       ]
     },
     {
       "type": "image",
-      "version": 118,
-      "versionNonce": 1173380100,
+      "version": 165,
+      "versionNonce": 2124910736,
       "isDeleted": false,
       "id": "mC9OtUDWLuN9HCIiTj2j2",
       "fillStyle": "hachure",
@@ -1914,8 +1918,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 4190.258384506107,
-      "y": -1295.3110953433384,
+      "x": 4463.365577866294,
+      "y": -1288.3656284371827,
       "strokeColor": "transparent",
       "backgroundColor": "transparent",
       "width": 218.91444310894693,
@@ -1933,7 +1937,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684949833580,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "status": "pending",
@@ -1945,8 +1949,8 @@
     },
     {
       "type": "text",
-      "version": 50,
-      "versionNonce": 2104877486,
+      "version": 99,
+      "versionNonce": 1397892208,
       "isDeleted": false,
       "id": "8NeqOLrVLbfpz_Q9QTT8C",
       "fillStyle": "hachure",
@@ -1955,8 +1959,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 3982.827601250784,
-      "y": -964.1831060194843,
+      "x": 4255.765392979112,
+      "y": -957.2376391133287,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 680.059326171875,
@@ -1970,7 +1974,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551041,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1985,8 +1989,8 @@
     },
     {
       "type": "arrow",
-      "version": 121,
-      "versionNonce": 788787844,
+      "version": 311,
+      "versionNonce": 812914288,
       "isDeleted": false,
       "id": "eYfSNzvxLNAuaM0Vg0g7a",
       "fillStyle": "hachure",
@@ -1995,11 +1999,11 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 4317.658369089513,
-      "y": -1089.7258343547473,
+      "x": 4590.581152055156,
+      "y": -1082.7803674485917,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 4.547473508864641e-13,
+      "width": 0.009424203952221433,
       "height": 110.70566532294379,
       "seed": 2099363516,
       "groupIds": [],
@@ -2007,7 +2011,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949822793,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2029,15 +2033,15 @@
           0
         ],
         [
-          -4.547473508864641e-13,
+          0.009424203952221433,
           110.70566532294379
         ]
       ]
     },
     {
       "type": "arrow",
-      "version": 218,
-      "versionNonce": 941456956,
+      "version": 312,
+      "versionNonce": 1950919824,
       "isDeleted": false,
       "id": "QE4Sq1Wv0wmZ04yLkggIU",
       "fillStyle": "hachure",
@@ -2046,19 +2050,19 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2836.4194264515404,
-      "y": -1576.7934020099985,
+      "x": 2846.93782944713,
+      "y": -1576.7934020099988,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 1481.5121379033485,
-      "height": 260.4787607669625,
+      "width": 1730.84759319174,
+      "height": 267.42422767311837,
       "seed": 1668740868,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949856991,
+      "updated": 1684972119208,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2080,15 +2084,15 @@
           0
         ],
         [
-          1481.5121379033485,
-          260.4787607669625
+          1730.84759319174,
+          267.42422767311837
         ]
       ]
     },
     {
       "type": "text",
-      "version": 68,
-      "versionNonce": 647288882,
+      "version": 69,
+      "versionNonce": 1527761040,
       "isDeleted": false,
       "id": "QGmLVJWDfSShr0eZeIZ6m",
       "fillStyle": "hachure",
@@ -2101,7 +2105,7 @@
       "y": -663.0683474432226,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 448.7757263183594,
+      "width": 448.3460388183594,
       "height": 25,
       "seed": 2135433020,
       "groupIds": [],
@@ -2112,7 +2116,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551041,
+      "updated": 1684972013949,
       "link": "https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization",
       "locked": false,
       "fontSize": 20,
@@ -2127,8 +2131,8 @@
     },
     {
       "type": "arrow",
-      "version": 42,
-      "versionNonce": 311211196,
+      "version": 140,
+      "versionNonce": 951729296,
       "isDeleted": false,
       "id": "iEfKz83o8s3lfHL02tn9Z",
       "fillStyle": "hachure",
@@ -2137,19 +2141,19 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2766.7073198753747,
-      "y": -825.2337880241485,
+      "x": 3001.593049359104,
+      "y": -818.4471351478591,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 4.623617950265725,
-      "height": 152.41274921812987,
+      "width": 199.4768609670782,
+      "height": 145.62609634184048,
       "seed": 526061700,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684949934082,
+      "updated": 1684972119207,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -2171,15 +2175,15 @@
           0
         ],
         [
-          4.623617950265725,
-          152.41274921812987
+          -199.4768609670782,
+          145.62609634184048
         ]
       ]
     },
     {
       "type": "text",
-      "version": 12,
-      "versionNonce": 1542028270,
+      "version": 13,
+      "versionNonce": 1964689520,
       "isDeleted": false,
       "id": "0y3oEKF44H3sUmSwpKnQb",
       "fillStyle": "hachure",
@@ -2207,7 +2211,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551042,
+      "updated": 1684972013950,
       "link": "https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data",
       "locked": false,
       "fontSize": 20,
@@ -2273,8 +2277,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 1315897842,
+      "version": 53,
+      "versionNonce": 354956944,
       "isDeleted": false,
       "id": "wBVolv5vbB4q9Av59iId9",
       "fillStyle": "hachure",
@@ -2298,7 +2302,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551043,
+      "updated": 1684972013951,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2364,8 +2368,8 @@
     },
     {
       "type": "text",
-      "version": 16,
-      "versionNonce": 1433390638,
+      "version": 17,
+      "versionNonce": 1502100080,
       "isDeleted": false,
       "id": "m7H1uA7f2wWW-G58zfz2w",
       "fillStyle": "hachure",
@@ -2393,7 +2397,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551044,
+      "updated": 1684972013952,
       "link": "https://developers.google.com/machine-learning/crash-course/representation/cleaning-data",
       "locked": false,
       "fontSize": 20,
@@ -2408,8 +2412,8 @@
     },
     {
       "type": "text",
-      "version": 111,
-      "versionNonce": 1423831986,
+      "version": 112,
+      "versionNonce": 235070608,
       "isDeleted": false,
       "id": "5bvcE8cp9DFrD8dNDr704",
       "fillStyle": "hachure",
@@ -2437,7 +2441,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551044,
+      "updated": 1684972013953,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2554,8 +2558,8 @@
     },
     {
       "type": "text",
-      "version": 88,
-      "versionNonce": 1727125614,
+      "version": 89,
+      "versionNonce": 1937206384,
       "isDeleted": false,
       "id": "WxRVudsX5bLNtEaci9Tei",
       "fillStyle": "hachure",
@@ -2583,7 +2587,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551045,
+      "updated": 1684972013954,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2700,8 +2704,8 @@
     },
     {
       "type": "text",
-      "version": 9,
-      "versionNonce": 470330738,
+      "version": 10,
+      "versionNonce": 861393552,
       "isDeleted": false,
       "id": "AG5f1agHRw1GaBWctuTLR",
       "fillStyle": "hachure",
@@ -2725,7 +2729,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551046,
+      "updated": 1684972013954,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2791,8 +2795,8 @@
     },
     {
       "type": "text",
-      "version": 61,
-      "versionNonce": 137927342,
+      "version": 62,
+      "versionNonce": 749756016,
       "isDeleted": false,
       "id": "RH50HMrb6gMFeTQfnutmN",
       "fillStyle": "hachure",
@@ -2824,7 +2828,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551047,
+      "updated": 1684972013955,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2890,8 +2894,8 @@
     },
     {
       "type": "text",
-      "version": 36,
-      "versionNonce": 691416882,
+      "version": 37,
+      "versionNonce": 2078212240,
       "isDeleted": false,
       "id": "KvS4ATzrAkKNxS5GJ6Bwm",
       "fillStyle": "hachure",
@@ -2915,7 +2919,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551047,
+      "updated": 1684972013955,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2981,8 +2985,8 @@
     },
     {
       "type": "text",
-      "version": 33,
-      "versionNonce": 1340937454,
+      "version": 34,
+      "versionNonce": 1979388016,
       "isDeleted": false,
       "id": "cDKFMZ0b0lCD25Q-St9tU",
       "fillStyle": "hachure",
@@ -3006,7 +3010,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969551048,
+      "updated": 1684972013956,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3072,8 +3076,8 @@
     },
     {
       "type": "text",
-      "version": 118,
-      "versionNonce": 1501284914,
+      "version": 119,
+      "versionNonce": 1196453520,
       "isDeleted": false,
       "id": "YyRbTmWer4VjlpHBIZzY1",
       "fillStyle": "hachure",
@@ -3105,7 +3109,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969924540,
+      "updated": 1684972013957,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3120,8 +3124,8 @@
     },
     {
       "type": "text",
-      "version": 36,
-      "versionNonce": 295684466,
+      "version": 37,
+      "versionNonce": 1730118256,
       "isDeleted": false,
       "id": "RbydC1qJyGepptOJdCoqz",
       "fillStyle": "hachure",
@@ -3145,7 +3149,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969913482,
+      "updated": 1684972013957,
       "link": "https://cloud.google.com/vertex-ai/docs/ml-metadata/analyzing#filter_contexts_by_their_parentchild_relationships",
       "locked": false,
       "fontSize": 20,
@@ -3211,8 +3215,8 @@
     },
     {
       "type": "text",
-      "version": 89,
-      "versionNonce": 502513586,
+      "version": 90,
+      "versionNonce": 1046748304,
       "isDeleted": false,
       "id": "GYzZxyXwNV3gYg8g-cha7",
       "fillStyle": "hachure",
@@ -3240,7 +3244,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969946944,
+      "updated": 1684972013957,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3305,26 +3309,26 @@
       ]
     },
     {
-      "id": "1avAaW_ukd7LB8dkcUerz",
       "type": "text",
-      "x": 381.5987749609709,
-      "y": -1998.1067027101471,
-      "width": 200.17984008789062,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 129,
+      "versionNonce": 1592112240,
+      "isDeleted": false,
+      "id": "1avAaW_ukd7LB8dkcUerz",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 381.5987749609709,
+      "y": -1998.1067027101471,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 200.17984008789062,
+      "height": 25,
+      "seed": 66053874,
       "groupIds": [],
       "roundness": null,
-      "seed": 66053874,
-      "version": 128,
-      "versionNonce": 667874222,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "IIiUe5dv63HI3XYtGfuJy",
@@ -3335,40 +3339,40 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684970007805,
+      "updated": 1684972013958,
       "link": "https://www.tensorflow.org/lattice",
       "locked": false,
-      "text": "TensorFlow Lattice ",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "TensorFlow Lattice ",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "TensorFlow Lattice ",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 18
     },
     {
-      "id": "OHb9sKiuxEeMOkSFzzfSG",
       "type": "text",
-      "x": 984.9321082943037,
-      "y": -1481.4400360434804,
-      "width": 178.5198211669922,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 112,
+      "versionNonce": 852626064,
+      "isDeleted": false,
+      "id": "OHb9sKiuxEeMOkSFzzfSG",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 984.9321082943037,
+      "y": -1481.4400360434804,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 178.5198211669922,
+      "height": 25,
+      "seed": 540270066,
       "groupIds": [],
       "roundness": null,
-      "seed": 540270066,
-      "version": 111,
-      "versionNonce": 883768110,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "pQLi1_jcbSwcugbBAG7Fh",
@@ -3387,97 +3391,86 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969900179,
+      "updated": 1684972013958,
       "link": "https://www.tensorflow.org/lite/performance/model_optimization",
       "locked": false,
-      "text": "Model optimization",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Model optimization",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "Model optimization",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 18
     },
     {
-      "id": "oo0JTUixPLQWbB34hnYXc",
       "type": "text",
-      "x": 104.9321082943041,
-      "y": -1678.1067027101471,
-      "width": 591.199462890625,
-      "height": 100,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 61,
+      "versionNonce": 588621424,
+      "isDeleted": false,
+      "id": "oo0JTUixPLQWbB34hnYXc",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 104.9321082943041,
+      "y": -1678.1067027101471,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 591.199462890625,
+      "height": 100,
+      "seed": 2064281774,
       "groupIds": [],
       "roundness": null,
-      "seed": 2064281774,
-      "version": 60,
-      "versionNonce": 1143329774,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "pQLi1_jcbSwcugbBAG7Fh",
           "type": "arrow"
         }
       ],
-      "updated": 1684969767870,
+      "updated": 1684972013959,
       "link": null,
       "locked": false,
-      "text": "Quantization works by reducing the precision of the numbers\nused to represent a model's parameters, which by default\nare 32-bit floating point numbers. This results in a smaller\nmodel size and faster computation.",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Quantization works by reducing the precision of the numbers\nused to represent a model's parameters, which by default\nare 32-bit floating point numbers. This results in a smaller\nmodel size and faster computation.",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 93,
       "containerId": null,
       "originalText": "Quantization works by reducing the precision of the numbers\nused to represent a model's parameters, which by default\nare 32-bit floating point numbers. This results in a smaller\nmodel size and faster computation.",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 93
     },
     {
-      "id": "pQLi1_jcbSwcugbBAG7Fh",
       "type": "arrow",
-      "x": 973.6807663883005,
-      "y": -1477.3711361115586,
-      "width": 255.90149137286005,
-      "height": 141.43832213970768,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 212,
+      "versionNonce": 1893317038,
+      "isDeleted": false,
+      "id": "pQLi1_jcbSwcugbBAG7Fh",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 973.6807663883005,
+      "y": -1477.3711361115586,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 255.90149137286005,
+      "height": 141.43832213970768,
+      "seed": 1311721774,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
-      "seed": 1311721774,
-      "version": 212,
-      "versionNonce": 1893317038,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1684969902727,
       "link": null,
       "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -255.90149137286005,
-          -141.43832213970768
-        ]
-      ],
-      "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "OHb9sKiuxEeMOkSFzzfSG",
         "focus": -0.7620678651724779,
@@ -3488,127 +3481,127 @@
         "focus": -0.7781775511602369,
         "gap": 21.647703830511432
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
-    },
-    {
-      "id": "zeoCyQHKqJyzAoFTtvEa9",
-      "type": "text",
-      "x": 108.26544162763719,
-      "y": -1523.1067027101476,
-      "width": 624.259521484375,
-      "height": 125,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": null,
-      "seed": 557045106,
-      "version": 75,
-      "versionNonce": 467036462,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "Y4v0_WY4jMdVS0msXKrYT",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1684969834893,
-      "link": null,
-      "locked": false,
-      "text": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
-      "fontSize": 20,
-      "fontFamily": 1,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "baseline": 118,
-      "containerId": null,
-      "originalText": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
-      "lineHeight": 1.25
-    },
-    {
-      "id": "bGrhTu5Bhmy7zf82zhPSY",
-      "type": "text",
-      "x": 108.26544162763736,
-      "y": -1356.4400360434806,
-      "width": 611.41943359375,
-      "height": 125,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": null,
-      "seed": 637658862,
-      "version": 41,
-      "versionNonce": 795452206,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "N2-7lP1J4zBHV3SmPXoxG",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1684969841181,
-      "link": null,
-      "locked": false,
-      "text": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
-      "fontSize": 20,
-      "fontFamily": 1,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "baseline": 118,
-      "containerId": null,
-      "originalText": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
-      "lineHeight": 1.25
-    },
-    {
-      "id": "Y4v0_WY4jMdVS0msXKrYT",
-      "type": "arrow",
-      "x": 971.5987749609703,
-      "y": -1467.137692048297,
-      "width": 218.33333333333303,
-      "height": 14.279180438749563,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": {
-        "type": 2
-      },
-      "seed": 571964782,
-      "version": 201,
-      "versionNonce": 1140922354,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1684969904991,
-      "link": null,
-      "locked": false,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
           0
         ],
         [
-          -218.33333333333303,
-          14.279180438749563
+          -255.90149137286005,
+          -141.43832213970768
         ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 76,
+      "versionNonce": 2136094864,
+      "isDeleted": false,
+      "id": "zeoCyQHKqJyzAoFTtvEa9",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 108.26544162763719,
+      "y": -1523.1067027101476,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 624.259521484375,
+      "height": 125,
+      "seed": 557045106,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "Y4v0_WY4jMdVS0msXKrYT",
+          "type": "arrow"
+        }
       ],
-      "lastCommittedPoint": null,
+      "updated": 1684972013959,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 42,
+      "versionNonce": 7821424,
+      "isDeleted": false,
+      "id": "bGrhTu5Bhmy7zf82zhPSY",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 108.26544162763736,
+      "y": -1356.4400360434806,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 611.41943359375,
+      "height": 125,
+      "seed": 637658862,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "N2-7lP1J4zBHV3SmPXoxG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684972013960,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "arrow",
+      "version": 201,
+      "versionNonce": 1140922354,
+      "isDeleted": false,
+      "id": "Y4v0_WY4jMdVS0msXKrYT",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 971.5987749609703,
+      "y": -1467.137692048297,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 218.33333333333303,
+      "height": 14.279180438749563,
+      "seed": 571964782,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1684969904991,
+      "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "OHb9sKiuxEeMOkSFzzfSG",
         "focus": 0.2676097034170725,
@@ -3619,47 +3612,47 @@
         "focus": 0.3560115550561043,
         "gap": 20.740478515625114
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
-    },
-    {
-      "id": "N2-7lP1J4zBHV3SmPXoxG",
-      "type": "arrow",
-      "x": 971.5987749609699,
-      "y": -1460.7674762724087,
-      "width": 248.3333333333327,
-      "height": 189.23646868007745,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": {
-        "type": 2
-      },
-      "seed": 2077037422,
-      "version": 207,
-      "versionNonce": 187649390,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1684969855010,
-      "link": null,
-      "locked": false,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
           0
         ],
         [
-          -248.3333333333327,
-          189.23646868007745
+          -218.33333333333303,
+          14.279180438749563
         ]
-      ],
-      "lastCommittedPoint": null,
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 207,
+      "versionNonce": 187649390,
+      "isDeleted": false,
+      "id": "N2-7lP1J4zBHV3SmPXoxG",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 971.5987749609699,
+      "y": -1460.7674762724087,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 248.3333333333327,
+      "height": 189.23646868007745,
+      "seed": 2077037422,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1684969855010,
+      "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "OHb9sKiuxEeMOkSFzzfSG",
         "focus": 0.8692361694070344,
@@ -3670,30 +3663,41 @@
         "focus": 0.8735441598062604,
         "gap": 3.5805664062498863
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -248.3333333333327,
+          189.23646868007745
+        ]
+      ]
     },
     {
-      "id": "ARIucm_ehYebJiTFjcLQh",
       "type": "text",
-      "x": 354.93210829430416,
-      "y": -1793.106702710148,
-      "width": 297.0997314453125,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 81,
+      "versionNonce": 1738319504,
+      "isDeleted": false,
+      "id": "ARIucm_ehYebJiTFjcLQh",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 354.93210829430416,
+      "y": -1793.106702710148,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 297.0997314453125,
+      "height": 25,
+      "seed": 1794315250,
       "groupIds": [],
       "roundness": null,
-      "seed": 1794315250,
-      "version": 80,
-      "versionNonce": 553015474,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "i3jGus6OactpzylCJUN8L",
@@ -3704,57 +3708,46 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969927160,
+      "updated": 1684972013961,
       "link": "https://www.tensorflow.org/model_optimization",
       "locked": false,
-      "text": "Tensorflow Model Optimization",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Tensorflow Model Optimization",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "Tensorflow Model Optimization",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 18
     },
     {
-      "id": "i3jGus6OactpzylCJUN8L",
       "type": "arrow",
-      "x": 978.2654416276374,
-      "y": -1486.440036043481,
-      "width": 313.33333333333337,
-      "height": 286.66666666666674,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 101,
+      "versionNonce": 2079338610,
+      "isDeleted": false,
+      "id": "i3jGus6OactpzylCJUN8L",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 978.2654416276374,
+      "y": -1486.440036043481,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 313.33333333333337,
+      "height": 286.66666666666674,
+      "seed": 51275570,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
-      "seed": 51275570,
-      "version": 101,
-      "versionNonce": 2079338610,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1684969900185,
       "link": null,
       "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -313.33333333333337,
-          -286.66666666666674
-        ]
-      ],
-      "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "OHb9sKiuxEeMOkSFzzfSG",
         "focus": -0.7461781445437801,
@@ -3765,30 +3758,41 @@
         "focus": -0.9447626544110467,
         "gap": 12.900268554687386
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -313.33333333333337,
+          -286.66666666666674
+        ]
+      ]
     },
     {
-      "id": "IkmhfvrLn7XgmRIeaZZWC",
       "type": "text",
-      "x": 974.9321082943043,
-      "y": -1806.440036043477,
-      "width": 105.139892578125,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 17,
+      "versionNonce": 1792199280,
+      "isDeleted": false,
+      "id": "IkmhfvrLn7XgmRIeaZZWC",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 974.9321082943043,
+      "y": -1806.440036043477,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 105.139892578125,
+      "height": 25,
+      "seed": 97481458,
       "groupIds": [],
       "roundness": null,
-      "seed": 97481458,
-      "version": 16,
-      "versionNonce": 456185326,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "JROVuAtYqxxUqOWumsbye",
@@ -3803,57 +3807,46 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684969929484,
+      "updated": 1684972013961,
       "link": null,
       "locked": false,
-      "text": "Tensorflow",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Tensorflow",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "Tensorflow",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 18
     },
     {
-      "id": "JROVuAtYqxxUqOWumsbye",
       "type": "arrow",
-      "x": 1021.5987749609708,
-      "y": -1813.1067027101435,
-      "width": 96.66666666666674,
-      "height": 180,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 40,
+      "versionNonce": 1688381934,
+      "isDeleted": false,
+      "id": "JROVuAtYqxxUqOWumsbye",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1021.5987749609708,
+      "y": -1813.1067027101435,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 96.66666666666674,
+      "height": 180,
+      "seed": 1601017650,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
-      "seed": 1601017650,
-      "version": 40,
-      "versionNonce": 1688381934,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1684969924543,
       "link": null,
       "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          96.66666666666674,
-          -180
-        ]
-      ],
-      "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "IkmhfvrLn7XgmRIeaZZWC",
         "focus": -0.27320672523145023,
@@ -3864,47 +3857,47 @@
         "focus": -0.11744093246991379,
         "gap": 8.247804627675805
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
-    },
-    {
-      "id": "_gb4DlCoMnoPrHicg4ZU9",
-      "type": "arrow",
-      "x": 961.598774960971,
-      "y": -1789.7733693768103,
-      "width": 298.3333333333335,
-      "height": 6.6666666666667425,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": {
-        "type": 2
-      },
-      "seed": 732410866,
-      "version": 52,
-      "versionNonce": 1440968558,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1684969934174,
-      "link": null,
-      "locked": false,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
           0
         ],
         [
-          -298.3333333333335,
-          6.6666666666667425
+          96.66666666666674,
+          -180
         ]
-      ],
-      "lastCommittedPoint": null,
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 52,
+      "versionNonce": 1440968558,
+      "isDeleted": false,
+      "id": "_gb4DlCoMnoPrHicg4ZU9",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 961.598774960971,
+      "y": -1789.7733693768103,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 298.3333333333335,
+      "height": 6.6666666666667425,
+      "seed": 732410866,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1684969934174,
+      "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "IkmhfvrLn7XgmRIeaZZWC",
         "focus": -0.19700310369749166,
@@ -3915,47 +3908,47 @@
         "focus": 0.06767450887881563,
         "gap": 11.233601888020871
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
-    },
-    {
-      "id": "IIiUe5dv63HI3XYtGfuJy",
-      "type": "arrow",
-      "x": 963.2654416276375,
-      "y": -1806.440036043477,
-      "width": 370,
-      "height": 168.33333333333326,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1909224050,
-      "version": 81,
-      "versionNonce": 315636206,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1684969931621,
-      "link": null,
-      "locked": false,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
           0
         ],
         [
-          -370,
-          -168.33333333333326
+          -298.3333333333335,
+          6.6666666666667425
         ]
-      ],
-      "lastCommittedPoint": null,
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 81,
+      "versionNonce": 315636206,
+      "isDeleted": false,
+      "id": "IIiUe5dv63HI3XYtGfuJy",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 963.2654416276375,
+      "y": -1806.440036043477,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 370,
+      "height": 168.33333333333326,
+      "seed": 1909224050,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1684969931621,
+      "link": null,
+      "locked": false,
       "startBinding": {
         "elementId": "IkmhfvrLn7XgmRIeaZZWC",
         "focus": -0.4592576228434607,
@@ -3966,36 +3959,60 @@
         "focus": -0.6880002363288595,
         "gap": 11.486826578776004
       },
+      "lastCommittedPoint": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow"
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -370,
+          -168.33333333333326
+        ]
+      ]
     },
     {
-      "id": "K_Ms-rApPOwPzUTeVMVuu",
       "type": "arrow",
-      "x": 1724.932108294304,
-      "y": -1584.7733693768105,
-      "width": 986.6666666666665,
-      "height": 1173.333333333333,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 131,
+      "versionNonce": 427232942,
+      "isDeleted": false,
+      "id": "K_Ms-rApPOwPzUTeVMVuu",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 1724.932108294304,
+      "y": -1584.7733693768105,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 986.6666666666665,
+      "height": 1173.333333333333,
+      "seed": 1823453742,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
-      "seed": 1823453742,
-      "version": 131,
-      "versionNonce": 427232942,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1684969946952,
       "link": null,
       "locked": false,
+      "startBinding": {
+        "elementId": "GYzZxyXwNV3gYg8g-cha7",
+        "focus": 0.31920320991969725,
+        "gap": 1.5746088997768766
+      },
+      "endBinding": {
+        "elementId": "Hg-_pTNJFWcYELUQL8sJ4",
+        "focus": 0.021206665174120624,
+        "gap": 14.115145906758698
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
       "points": [
         [
           0,
@@ -4009,27 +4026,105 @@
           -986.6666666666665,
           1173.333333333333
         ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "GYzZxyXwNV3gYg8g-cha7",
-        "focus": 0.31920320991969725,
-        "gap": 1.5746088997768766
-      },
-      "endBinding": {
-        "elementId": "Hg-_pTNJFWcYELUQL8sJ4",
-        "focus": 0.021206665174120624,
-        "gap": 14.115145906758698
-      },
-      "startArrowhead": null,
-      "endArrowhead": "arrow"
+      ]
     },
     {
-      "id": "iJgvARAN_G8r6uLCuJgj2",
       "type": "text",
+      "version": 41,
+      "versionNonce": 2020168848,
+      "isDeleted": false,
+      "id": "iJgvARAN_G8r6uLCuJgj2",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
       "x": -295.06789170569266,
       "y": -2006.440036043471,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
       "width": 459.6396484375,
+      "height": 25,
+      "seed": 449428270,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "vClJ24nVjOzGCIIeNZ0ip",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684972013961,
+      "link": "https://youtu.be/ABBnNjbjv2Q",
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "TF Lattice: Control Your ML with Monotonicity",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "TF Lattice: Control Your ML with Monotonicity",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "arrow",
+      "version": 61,
+      "versionNonce": 957763570,
+      "isDeleted": false,
+      "id": "vClJ24nVjOzGCIIeNZ0ip",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 374.9321082943071,
+      "y": -1989.7733693768046,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 198.33333333333326,
+      "height": 0,
+      "seed": 451463602,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1684970007810,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "1avAaW_ukd7LB8dkcUerz",
+        "focus": 0.33333333333259363,
+        "gap": 6.666666666663787
+      },
+      "endBinding": {
+        "elementId": "iJgvARAN_G8r6uLCuJgj2",
+        "focus": 0.3333333333333212,
+        "gap": 12.027018229166515
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -198.33333333333326,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "faiUuQG8bmJdiLk6d1OOS",
+      "type": "text",
+      "x": 3099.899155289425,
+      "y": -652.9676705005234,
+      "width": 452.2562561035156,
       "height": 25,
       "angle": 0,
       "strokeColor": "#000000",
@@ -4041,36 +4136,36 @@
       "opacity": 100,
       "groupIds": [],
       "roundness": null,
-      "seed": 449428270,
-      "version": 40,
-      "versionNonce": 1028673006,
+      "seed": 949415536,
+      "version": 43,
+      "versionNonce": 350319216,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "vClJ24nVjOzGCIIeNZ0ip",
+          "id": "9XBt1yq4atOmhjh8wAiuL",
           "type": "arrow"
         }
       ],
-      "updated": 1684970007805,
-      "link": "https://youtu.be/ABBnNjbjv2Q",
+      "updated": 1684972106459,
+      "link": "https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization",
       "locked": false,
-      "text": "TF Lattice: Control Your ML with Monotonicity",
+      "text": "Regularization for Simplicity: L₂ Regularization",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 18,
       "containerId": null,
-      "originalText": "TF Lattice: Control Your ML with Monotonicity",
+      "originalText": "Regularization for Simplicity: L₂ Regularization",
       "lineHeight": 1.25
     },
     {
-      "id": "vClJ24nVjOzGCIIeNZ0ip",
+      "id": "9XBt1yq4atOmhjh8wAiuL",
       "type": "arrow",
-      "x": 374.9321082943071,
-      "y": -1989.7733693768046,
-      "width": 198.33333333333326,
-      "height": 0,
+      "x": 3038.2733235611786,
+      "y": -822.1611070906988,
+      "width": 314.1948672876388,
+      "height": 159.47046118981018,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -4083,12 +4178,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 451463602,
-      "version": 61,
-      "versionNonce": 957763570,
+      "seed": 559053424,
+      "version": 154,
+      "versionNonce": 1029974672,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1684970007810,
+      "updated": 1684972119207,
       "link": null,
       "locked": false,
       "points": [
@@ -4097,20 +4192,20 @@
           0
         ],
         [
-          -198.33333333333326,
-          0
+          314.1948672876388,
+          159.47046118981018
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "1avAaW_ukd7LB8dkcUerz",
-        "focus": 0.33333333333259363,
-        "gap": 6.666666666663787
+        "elementId": "XioK68yFrQtxMpgw8Qilu",
+        "focus": 0.27315229996404494,
+        "gap": 9.48286907211093
       },
       "endBinding": {
-        "elementId": "iJgvARAN_G8r6uLCuJgj2",
-        "focus": 0.3333333333333212,
-        "gap": 12.027018229166515
+        "elementId": "faiUuQG8bmJdiLk6d1OOS",
+        "focus": 0.2800548802625434,
+        "gap": 9.722975400365272
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
