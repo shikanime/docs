@@ -3215,8 +3215,8 @@
     },
     {
       "type": "text",
-      "version": 90,
-      "versionNonce": 1046748304,
+      "version": 91,
+      "versionNonce": 578380944,
       "isDeleted": false,
       "id": "GYzZxyXwNV3gYg8g-cha7",
       "fillStyle": "hachure",
@@ -3242,9 +3242,13 @@
         {
           "id": "K_Ms-rApPOwPzUTeVMVuu",
           "type": "arrow"
+        },
+        {
+          "id": "ZPNF-2SkDLQ5oDxCI7aAN",
+          "type": "arrow"
         }
       ],
-      "updated": 1684972013957,
+      "updated": 1684972387357,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4206,6 +4210,192 @@
         "elementId": "faiUuQG8bmJdiLk6d1OOS",
         "focus": 0.2800548802625434,
         "gap": 9.722975400365272
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "9-DTmN54yY6gg9gy0jnRJ",
+      "type": "text",
+      "x": -416.76409892276865,
+      "y": -745.9634376442275,
+      "width": 638.6595458984375,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 950141072,
+      "version": 37,
+      "versionNonce": 781746832,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "DliT2uHSAYPAYEv2yT2Gv",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684972403700,
+      "link": "https://www.qwak.com/post/shadow-deployment-vs-canary-release-of-machine-learning-models",
+      "locked": false,
+      "text": "Shadow deployment vs. canary release of machine learning models",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Shadow deployment vs. canary release of machine learning models",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "yxUgULH3LjpSaIXHl_v8w",
+      "type": "text",
+      "x": 148.0385569862167,
+      "y": -945.6640257495512,
+      "width": 187.53985595703125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 2110768752,
+      "version": 35,
+      "versionNonce": 1723024,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ZPNF-2SkDLQ5oDxCI7aAN",
+          "type": "arrow"
+        },
+        {
+          "id": "DliT2uHSAYPAYEv2yT2Gv",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684972392274,
+      "link": null,
+      "locked": false,
+      "text": "Vertex AI Endpoint",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Vertex AI Endpoint",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ZPNF-2SkDLQ5oDxCI7aAN",
+      "type": "arrow",
+      "x": 1716.7249774130148,
+      "y": -1595.0625519586624,
+      "width": 1498.3233032898288,
+      "height": 641.9979841780914,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2065660528,
+      "version": 95,
+      "versionNonce": 603719312,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684972389054,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1498.3233032898288,
+          641.9979841780914
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "GYzZxyXwNV3gYg8g-cha7",
+        "focus": 0.6107905759718049,
+        "gap": 7.687556554461025
+      },
+      "endBinding": {
+        "elementId": "yxUgULH3LjpSaIXHl_v8w",
+        "focus": -0.5681623773368063,
+        "gap": 7.400542031019768
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "DliT2uHSAYPAYEv2yT2Gv",
+      "type": "arrow",
+      "x": 163.69013215644298,
+      "y": -908.2834738125025,
+      "width": 243.69743724088164,
+      "height": 151.84439755575704,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 781806192,
+      "version": 29,
+      "versionNonce": 2036013168,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684972392278,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -243.69743724088164,
+          151.84439755575704
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yxUgULH3LjpSaIXHl_v8w",
+        "focus": 0.33547138067839066,
+        "gap": 12.380551937048722
+      },
+      "endBinding": {
+        "elementId": "9-DTmN54yY6gg9gy0jnRJ",
+        "focus": -0.05729947669198675,
+        "gap": 10.475638612517969
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
