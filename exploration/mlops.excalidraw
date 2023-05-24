@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 44,
-      "versionNonce": 512079101,
+      "version": 45,
+      "versionNonce": 1504160306,
       "isDeleted": false,
       "id": "rUpc34Eg9EbTJgA8QFRtW",
       "fillStyle": "hachure",
@@ -38,7 +38,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839234,
+      "updated": 1684969551025,
       "link": "https://datatonic.com/insights/tensorflow-transform-bigquery-data-transformation",
       "locked": false,
       "fontSize": 20,
@@ -141,8 +141,8 @@
     },
     {
       "type": "text",
-      "version": 54,
-      "versionNonce": 1033495891,
+      "version": 55,
+      "versionNonce": 899992046,
       "isDeleted": false,
       "id": "AA_MQvG5q7TGkdPypJAU1",
       "fillStyle": "hachure",
@@ -170,7 +170,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839235,
+      "updated": 1684969551027,
       "link": "https://feast.dev/",
       "locked": false,
       "fontSize": 20,
@@ -185,8 +185,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 1835011421,
+      "version": 53,
+      "versionNonce": 2069337074,
       "isDeleted": false,
       "id": "FCGKsLwXErePGt5pVXmUF",
       "fillStyle": "hachure",
@@ -218,7 +218,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839237,
+      "updated": 1684969551029,
       "link": "https://datatonic.com/insights/bigquery-memorystore-feast-feature-store/",
       "locked": false,
       "fontSize": 20,
@@ -335,8 +335,8 @@
     },
     {
       "type": "text",
-      "version": 32,
-      "versionNonce": 578274035,
+      "version": 33,
+      "versionNonce": 915495982,
       "isDeleted": false,
       "id": "vmBg_AIZJy3sSkxz5DAYa",
       "fillStyle": "hachure",
@@ -360,7 +360,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839238,
+      "updated": 1684969551030,
       "link": "https://datatonic.com/insights/cloud-functions-cloud-run-model-serving",
       "locked": false,
       "fontSize": 20,
@@ -426,8 +426,8 @@
     },
     {
       "type": "text",
-      "version": 158,
-      "versionNonce": 873486781,
+      "version": 159,
+      "versionNonce": 988038578,
       "isDeleted": false,
       "id": "-ilZ0jgjLb36GXUiyTlaZ",
       "fillStyle": "hachure",
@@ -455,7 +455,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839238,
+      "updated": 1684969551031,
       "link": "https://cloud.google.com/vertex-ai/docs/featurestore/serving-batch",
       "locked": false,
       "fontSize": 20,
@@ -470,8 +470,8 @@
     },
     {
       "type": "text",
-      "version": 54,
-      "versionNonce": 386460819,
+      "version": 55,
+      "versionNonce": 145860206,
       "isDeleted": false,
       "id": "ovkZOkCjnXJjXcv7rUMne",
       "fillStyle": "hachure",
@@ -495,7 +495,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839239,
+      "updated": 1684969551032,
       "link": "https://youtu.be/DaNv-Wf1MBA",
       "locked": false,
       "fontSize": 20,
@@ -598,8 +598,8 @@
     },
     {
       "type": "text",
-      "version": 50,
-      "versionNonce": 1807227421,
+      "version": 52,
+      "versionNonce": 1485109618,
       "isDeleted": false,
       "id": "Hg-_pTNJFWcYELUQL8sJ4",
       "fillStyle": "hachure",
@@ -629,9 +629,13 @@
         {
           "id": "J-kHmJ1VCrSzLxCDI962x",
           "type": "arrow"
+        },
+        {
+          "id": "K_Ms-rApPOwPzUTeVMVuu",
+          "type": "arrow"
         }
       ],
-      "updated": 1684967839239,
+      "updated": 1684969946944,
       "link": "https://cloud.google.com/vertex-ai/docs/featurestore",
       "locked": false,
       "fontSize": 20,
@@ -799,8 +803,8 @@
     },
     {
       "type": "text",
-      "version": 23,
-      "versionNonce": 1594090035,
+      "version": 24,
+      "versionNonce": 1020176558,
       "isDeleted": false,
       "id": "QW5EGRyj7szGKOSal8smc",
       "fillStyle": "hachure",
@@ -828,7 +832,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839240,
+      "updated": 1684969551033,
       "link": "https://medium.com/google-cloud/how-do-you-use-feature-store-in-the-mlops-process-on-vertex-ai-802ddca2cac4",
       "locked": false,
       "fontSize": 20,
@@ -982,8 +986,8 @@
     },
     {
       "type": "text",
-      "version": 259,
-      "versionNonce": 1833487997,
+      "version": 260,
+      "versionNonce": 995098930,
       "isDeleted": false,
       "id": "XioK68yFrQtxMpgw8Qilu",
       "fillStyle": "hachure",
@@ -1011,7 +1015,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839241,
+      "updated": 1684969551034,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1026,8 +1030,8 @@
     },
     {
       "type": "text",
-      "version": 182,
-      "versionNonce": 55518163,
+      "version": 183,
+      "versionNonce": 1653695214,
       "isDeleted": false,
       "id": "_nnAcyQMECx5wys2ndkXt",
       "fillStyle": "hachure",
@@ -1051,7 +1055,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839241,
+      "updated": 1684969551035,
       "link": "https://www.tensorflow.org/tfx/guide/tfdv",
       "locked": false,
       "fontSize": 20,
@@ -1066,8 +1070,8 @@
     },
     {
       "type": "text",
-      "version": 208,
-      "versionNonce": 2005137117,
+      "version": 209,
+      "versionNonce": 1406995186,
       "isDeleted": false,
       "id": "DMaEVYABdbLIH-II8mIW1",
       "fillStyle": "hachure",
@@ -1099,7 +1103,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839242,
+      "updated": 1684969551036,
       "link": "https://cloud.google.com/architecture/ml-modeling-monitoring-analyzing-training-server-skew-in-ai-platform-prediction-with-tfdv",
       "locked": false,
       "fontSize": 20,
@@ -1114,8 +1118,8 @@
     },
     {
       "type": "text",
-      "version": 299,
-      "versionNonce": 738275699,
+      "version": 300,
+      "versionNonce": 746771758,
       "isDeleted": false,
       "id": "OMJlrFqeYgiDzMO8vQYg4",
       "fillStyle": "hachure",
@@ -1167,7 +1171,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839242,
+      "updated": 1684969551037,
       "link": "https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic",
       "locked": false,
       "fontSize": 20,
@@ -1335,8 +1339,8 @@
     },
     {
       "type": "text",
-      "version": 239,
-      "versionNonce": 1962611517,
+      "version": 240,
+      "versionNonce": 1906498738,
       "isDeleted": false,
       "id": "pGBw-f__yjDfBjN2LiZu5",
       "fillStyle": "hachure",
@@ -1360,7 +1364,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839243,
+      "updated": 1684969551038,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1512,8 +1516,8 @@
     },
     {
       "type": "text",
-      "version": 74,
-      "versionNonce": 979405587,
+      "version": 75,
+      "versionNonce": 336330606,
       "isDeleted": false,
       "id": "E6iV5iRI9Z5wArNHZASQ1",
       "fillStyle": "hachure",
@@ -1545,7 +1549,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839244,
+      "updated": 1684969551039,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1656,8 +1660,8 @@
     },
     {
       "type": "text",
-      "version": 73,
-      "versionNonce": 34579357,
+      "version": 74,
+      "versionNonce": 38303346,
       "isDeleted": false,
       "id": "_gf-oNjLIfVg7jHAJf_AC",
       "fillStyle": "hachure",
@@ -1681,7 +1685,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839244,
+      "updated": 1684969551040,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1941,8 +1945,8 @@
     },
     {
       "type": "text",
-      "version": 49,
-      "versionNonce": 585347251,
+      "version": 50,
+      "versionNonce": 2104877486,
       "isDeleted": false,
       "id": "8NeqOLrVLbfpz_Q9QTT8C",
       "fillStyle": "hachure",
@@ -1966,7 +1970,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839245,
+      "updated": 1684969551041,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2083,8 +2087,8 @@
     },
     {
       "type": "text",
-      "version": 67,
-      "versionNonce": 854796285,
+      "version": 68,
+      "versionNonce": 647288882,
       "isDeleted": false,
       "id": "QGmLVJWDfSShr0eZeIZ6m",
       "fillStyle": "hachure",
@@ -2097,7 +2101,7 @@
       "y": -663.0683474432226,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 448.3460388183594,
+      "width": 448.7757263183594,
       "height": 25,
       "seed": 2135433020,
       "groupIds": [],
@@ -2108,7 +2112,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839247,
+      "updated": 1684969551041,
       "link": "https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization",
       "locked": false,
       "fontSize": 20,
@@ -2174,8 +2178,8 @@
     },
     {
       "type": "text",
-      "version": 11,
-      "versionNonce": 120660563,
+      "version": 12,
+      "versionNonce": 1542028270,
       "isDeleted": false,
       "id": "0y3oEKF44H3sUmSwpKnQb",
       "fillStyle": "hachure",
@@ -2203,7 +2207,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839247,
+      "updated": 1684969551042,
       "link": "https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data",
       "locked": false,
       "fontSize": 20,
@@ -2269,8 +2273,8 @@
     },
     {
       "type": "text",
-      "version": 51,
-      "versionNonce": 430383197,
+      "version": 52,
+      "versionNonce": 1315897842,
       "isDeleted": false,
       "id": "wBVolv5vbB4q9Av59iId9",
       "fillStyle": "hachure",
@@ -2294,7 +2298,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839248,
+      "updated": 1684969551043,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2360,8 +2364,8 @@
     },
     {
       "type": "text",
-      "version": 15,
-      "versionNonce": 270491635,
+      "version": 16,
+      "versionNonce": 1433390638,
       "isDeleted": false,
       "id": "m7H1uA7f2wWW-G58zfz2w",
       "fillStyle": "hachure",
@@ -2389,7 +2393,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839249,
+      "updated": 1684969551044,
       "link": "https://developers.google.com/machine-learning/crash-course/representation/cleaning-data",
       "locked": false,
       "fontSize": 20,
@@ -2404,8 +2408,8 @@
     },
     {
       "type": "text",
-      "version": 110,
-      "versionNonce": 201133245,
+      "version": 111,
+      "versionNonce": 1423831986,
       "isDeleted": false,
       "id": "5bvcE8cp9DFrD8dNDr704",
       "fillStyle": "hachure",
@@ -2433,7 +2437,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839249,
+      "updated": 1684969551044,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2550,8 +2554,8 @@
     },
     {
       "type": "text",
-      "version": 87,
-      "versionNonce": 129296787,
+      "version": 88,
+      "versionNonce": 1727125614,
       "isDeleted": false,
       "id": "WxRVudsX5bLNtEaci9Tei",
       "fillStyle": "hachure",
@@ -2579,7 +2583,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839250,
+      "updated": 1684969551045,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2696,8 +2700,8 @@
     },
     {
       "type": "text",
-      "version": 8,
-      "versionNonce": 697724189,
+      "version": 9,
+      "versionNonce": 470330738,
       "isDeleted": false,
       "id": "AG5f1agHRw1GaBWctuTLR",
       "fillStyle": "hachure",
@@ -2721,7 +2725,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839251,
+      "updated": 1684969551046,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2787,8 +2791,8 @@
     },
     {
       "type": "text",
-      "version": 60,
-      "versionNonce": 858275635,
+      "version": 61,
+      "versionNonce": 137927342,
       "isDeleted": false,
       "id": "RH50HMrb6gMFeTQfnutmN",
       "fillStyle": "hachure",
@@ -2820,7 +2824,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839251,
+      "updated": 1684969551047,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2886,8 +2890,8 @@
     },
     {
       "type": "text",
-      "version": 35,
-      "versionNonce": 568639869,
+      "version": 36,
+      "versionNonce": 691416882,
       "isDeleted": false,
       "id": "KvS4ATzrAkKNxS5GJ6Bwm",
       "fillStyle": "hachure",
@@ -2911,7 +2915,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839252,
+      "updated": 1684969551047,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2977,8 +2981,8 @@
     },
     {
       "type": "text",
-      "version": 32,
-      "versionNonce": 1826611411,
+      "version": 33,
+      "versionNonce": 1340937454,
       "isDeleted": false,
       "id": "cDKFMZ0b0lCD25Q-St9tU",
       "fillStyle": "hachure",
@@ -3002,7 +3006,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839253,
+      "updated": 1684969551048,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3068,8 +3072,8 @@
     },
     {
       "type": "text",
-      "version": 70,
-      "versionNonce": 975800797,
+      "version": 118,
+      "versionNonce": 1501284914,
       "isDeleted": false,
       "id": "YyRbTmWer4VjlpHBIZzY1",
       "fillStyle": "hachure",
@@ -3078,8 +3082,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1761.7618611756732,
-      "y": -1698.0211740044858,
+      "x": 1051.7618611756732,
+      "y": -2026.3545073378193,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 137.55992126464844,
@@ -3095,9 +3099,13 @@
         {
           "id": "cwewU3f_Ecil-DnkeX4Fw",
           "type": "arrow"
+        },
+        {
+          "id": "JROVuAtYqxxUqOWumsbye",
+          "type": "arrow"
         }
       ],
-      "updated": 1684967839254,
+      "updated": 1684969924540,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3112,8 +3120,8 @@
     },
     {
       "type": "text",
-      "version": 4,
-      "versionNonce": 2121420403,
+      "version": 36,
+      "versionNonce": 295684466,
       "isDeleted": false,
       "id": "RbydC1qJyGepptOJdCoqz",
       "fillStyle": "hachure",
@@ -3122,8 +3130,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1099.095096893052,
-      "y": -1815.9927978438295,
+      "x": 440.7617635597187,
+      "y": -2159.326131177163,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 487.09954833984375,
@@ -3137,7 +3145,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1684967839254,
+      "updated": 1684969913482,
       "link": "https://cloud.google.com/vertex-ai/docs/ml-metadata/analyzing#filter_contexts_by_their_parentchild_relationships",
       "locked": false,
       "fontSize": 20,
@@ -3152,8 +3160,8 @@
     },
     {
       "type": "arrow",
-      "version": 44,
-      "versionNonce": 1829027516,
+      "version": 169,
+      "versionNonce": 1581100466,
       "isDeleted": false,
       "id": "eHyupoD6shuZty7lIntIw",
       "fillStyle": "hachure",
@@ -3162,24 +3170,24 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1757.4591016988497,
-      "y": -1703.9981883605237,
+      "x": 1061.1945520001364,
+      "y": -2032.3315216938572,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 201.1657324893606,
-      "height": 79.7879945533823,
+      "width": 180.1042943726693,
+      "height": 94.7879945533823,
       "seed": 1891624580,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684960449296,
+      "updated": 1684969915535,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "YyRbTmWer4VjlpHBIZzY1",
-        "focus": -0.2641938717628995,
+        "focus": -0.26419387176289655,
         "gap": 5.977014356037898
       },
       "endBinding": {
@@ -3196,15 +3204,15 @@
           0
         ],
         [
-          -201.1657324893606,
-          -79.7879945533823
+          -180.1042943726693,
+          -94.7879945533823
         ]
       ]
     },
     {
       "type": "text",
-      "version": 12,
-      "versionNonce": 326518333,
+      "version": 89,
+      "versionNonce": 502513586,
       "isDeleted": false,
       "id": "GYzZxyXwNV3gYg8g-cha7",
       "fillStyle": "hachure",
@@ -3213,8 +3221,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2137.7458673008096,
-      "y": -1669.6813116099206,
+      "x": 1724.4125339674758,
+      "y": -1611.3479782765874,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 97.37992858886719,
@@ -3226,9 +3234,13 @@
         {
           "id": "cwewU3f_Ecil-DnkeX4Fw",
           "type": "arrow"
+        },
+        {
+          "id": "K_Ms-rApPOwPzUTeVMVuu",
+          "type": "arrow"
         }
       ],
-      "updated": 1684967839255,
+      "updated": 1684969946944,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3243,8 +3255,8 @@
     },
     {
       "type": "arrow",
-      "version": 35,
-      "versionNonce": 1668721028,
+      "version": 277,
+      "versionNonce": 1785388530,
       "isDeleted": false,
       "id": "cwewU3f_Ecil-DnkeX4Fw",
       "fillStyle": "hachure",
@@ -3253,19 +3265,19 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 2134.392058335798,
-      "y": -1653.000194360725,
+      "x": 1721.0587250024644,
+      "y": -1608.5662731883517,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 224.79312823163264,
-      "height": 27.77255289003915,
+      "width": 547.217952048333,
+      "height": 382.51108648562376,
       "seed": 2052063876,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1684960478619,
+      "updated": 1684969941872,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -3287,10 +3299,821 @@
           0
         ],
         [
-          -224.79312823163264,
-          -27.77255289003915
+          -547.217952048333,
+          -382.51108648562376
         ]
       ]
+    },
+    {
+      "id": "1avAaW_ukd7LB8dkcUerz",
+      "type": "text",
+      "x": 381.5987749609709,
+      "y": -1998.1067027101471,
+      "width": 200.17984008789062,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 66053874,
+      "version": 128,
+      "versionNonce": 667874222,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IIiUe5dv63HI3XYtGfuJy",
+          "type": "arrow"
+        },
+        {
+          "id": "vClJ24nVjOzGCIIeNZ0ip",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684970007805,
+      "link": "https://www.tensorflow.org/lattice",
+      "locked": false,
+      "text": "TensorFlow Lattice ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "TensorFlow Lattice ",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "OHb9sKiuxEeMOkSFzzfSG",
+      "type": "text",
+      "x": 984.9321082943037,
+      "y": -1481.4400360434804,
+      "width": 178.5198211669922,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 540270066,
+      "version": 111,
+      "versionNonce": 883768110,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "pQLi1_jcbSwcugbBAG7Fh",
+          "type": "arrow"
+        },
+        {
+          "id": "Y4v0_WY4jMdVS0msXKrYT",
+          "type": "arrow"
+        },
+        {
+          "id": "N2-7lP1J4zBHV3SmPXoxG",
+          "type": "arrow"
+        },
+        {
+          "id": "i3jGus6OactpzylCJUN8L",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969900179,
+      "link": "https://www.tensorflow.org/lite/performance/model_optimization",
+      "locked": false,
+      "text": "Model optimization",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Model optimization",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "oo0JTUixPLQWbB34hnYXc",
+      "type": "text",
+      "x": 104.9321082943041,
+      "y": -1678.1067027101471,
+      "width": 591.199462890625,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 2064281774,
+      "version": 60,
+      "versionNonce": 1143329774,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "pQLi1_jcbSwcugbBAG7Fh",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969767870,
+      "link": null,
+      "locked": false,
+      "text": "Quantization works by reducing the precision of the numbers\nused to represent a model's parameters, which by default\nare 32-bit floating point numbers. This results in a smaller\nmodel size and faster computation.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 93,
+      "containerId": null,
+      "originalText": "Quantization works by reducing the precision of the numbers\nused to represent a model's parameters, which by default\nare 32-bit floating point numbers. This results in a smaller\nmodel size and faster computation.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "pQLi1_jcbSwcugbBAG7Fh",
+      "type": "arrow",
+      "x": 973.6807663883005,
+      "y": -1477.3711361115586,
+      "width": 255.90149137286005,
+      "height": 141.43832213970768,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1311721774,
+      "version": 212,
+      "versionNonce": 1893317038,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969902727,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -255.90149137286005,
+          -141.43832213970768
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "OHb9sKiuxEeMOkSFzzfSG",
+        "focus": -0.7620678651724779,
+        "gap": 11.251341906003233
+      },
+      "endBinding": {
+        "elementId": "oo0JTUixPLQWbB34hnYXc",
+        "focus": -0.7781775511602369,
+        "gap": 21.647703830511432
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "zeoCyQHKqJyzAoFTtvEa9",
+      "type": "text",
+      "x": 108.26544162763719,
+      "y": -1523.1067027101476,
+      "width": 624.259521484375,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 557045106,
+      "version": 75,
+      "versionNonce": 467036462,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Y4v0_WY4jMdVS0msXKrYT",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969834893,
+      "link": null,
+      "locked": false,
+      "text": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "Pruning works by removing parameters within a model that\nhave only a minor impact on its predictions. Pruned models\nare the same size on disk, and have the same runtime latency,\nbut can be compressed more effectively. This makes pruning a\nuseful technique for reducing model download size.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "bGrhTu5Bhmy7zf82zhPSY",
+      "type": "text",
+      "x": 108.26544162763736,
+      "y": -1356.4400360434806,
+      "width": 611.41943359375,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 637658862,
+      "version": 41,
+      "versionNonce": 795452206,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "N2-7lP1J4zBHV3SmPXoxG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969841181,
+      "link": null,
+      "locked": false,
+      "text": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "Clustering works by grouping the weights of each layer in a\nmodel into a predefined number of clusters, then sharing the\ncentroid values for the weights belonging to each individual\ncluster. This reduces the number of unique weight values in a\nmodel, thus reducing its complexity.",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Y4v0_WY4jMdVS0msXKrYT",
+      "type": "arrow",
+      "x": 971.5987749609703,
+      "y": -1467.137692048297,
+      "width": 218.33333333333303,
+      "height": 14.279180438749563,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 571964782,
+      "version": 201,
+      "versionNonce": 1140922354,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969904991,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -218.33333333333303,
+          14.279180438749563
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "OHb9sKiuxEeMOkSFzzfSG",
+        "focus": 0.2676097034170725,
+        "gap": 13.333333333333428
+      },
+      "endBinding": {
+        "elementId": "zeoCyQHKqJyzAoFTtvEa9",
+        "focus": 0.3560115550561043,
+        "gap": 20.740478515625114
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "N2-7lP1J4zBHV3SmPXoxG",
+      "type": "arrow",
+      "x": 971.5987749609699,
+      "y": -1460.7674762724087,
+      "width": 248.3333333333327,
+      "height": 189.23646868007745,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2077037422,
+      "version": 207,
+      "versionNonce": 187649390,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969855010,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -248.3333333333327,
+          189.23646868007745
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "OHb9sKiuxEeMOkSFzzfSG",
+        "focus": 0.8692361694070344,
+        "gap": 13.333333333333883
+      },
+      "endBinding": {
+        "elementId": "bGrhTu5Bhmy7zf82zhPSY",
+        "focus": 0.8735441598062604,
+        "gap": 3.5805664062498863
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ARIucm_ehYebJiTFjcLQh",
+      "type": "text",
+      "x": 354.93210829430416,
+      "y": -1793.106702710148,
+      "width": 297.0997314453125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1794315250,
+      "version": 80,
+      "versionNonce": 553015474,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "i3jGus6OactpzylCJUN8L",
+          "type": "arrow"
+        },
+        {
+          "id": "_gb4DlCoMnoPrHicg4ZU9",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969927160,
+      "link": "https://www.tensorflow.org/model_optimization",
+      "locked": false,
+      "text": "Tensorflow Model Optimization",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Tensorflow Model Optimization",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "i3jGus6OactpzylCJUN8L",
+      "type": "arrow",
+      "x": 978.2654416276374,
+      "y": -1486.440036043481,
+      "width": 313.33333333333337,
+      "height": 286.66666666666674,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 51275570,
+      "version": 101,
+      "versionNonce": 2079338610,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969900185,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -313.33333333333337,
+          -286.66666666666674
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "OHb9sKiuxEeMOkSFzzfSG",
+        "focus": -0.7461781445437801,
+        "gap": 6.6666666666663446
+      },
+      "endBinding": {
+        "elementId": "ARIucm_ehYebJiTFjcLQh",
+        "focus": -0.9447626544110467,
+        "gap": 12.900268554687386
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "IkmhfvrLn7XgmRIeaZZWC",
+      "type": "text",
+      "x": 974.9321082943043,
+      "y": -1806.440036043477,
+      "width": 105.139892578125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 97481458,
+      "version": 16,
+      "versionNonce": 456185326,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "JROVuAtYqxxUqOWumsbye",
+          "type": "arrow"
+        },
+        {
+          "id": "_gb4DlCoMnoPrHicg4ZU9",
+          "type": "arrow"
+        },
+        {
+          "id": "IIiUe5dv63HI3XYtGfuJy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684969929484,
+      "link": null,
+      "locked": false,
+      "text": "Tensorflow",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Tensorflow",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "JROVuAtYqxxUqOWumsbye",
+      "type": "arrow",
+      "x": 1021.5987749609708,
+      "y": -1813.1067027101435,
+      "width": 96.66666666666674,
+      "height": 180,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1601017650,
+      "version": 40,
+      "versionNonce": 1688381934,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969924543,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          96.66666666666674,
+          -180
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "IkmhfvrLn7XgmRIeaZZWC",
+        "focus": -0.27320672523145023,
+        "gap": 6.666666666666515
+      },
+      "endBinding": {
+        "elementId": "YyRbTmWer4VjlpHBIZzY1",
+        "focus": -0.11744093246991379,
+        "gap": 8.247804627675805
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "_gb4DlCoMnoPrHicg4ZU9",
+      "type": "arrow",
+      "x": 961.598774960971,
+      "y": -1789.7733693768103,
+      "width": 298.3333333333335,
+      "height": 6.6666666666667425,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 732410866,
+      "version": 52,
+      "versionNonce": 1440968558,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969934174,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -298.3333333333335,
+          6.6666666666667425
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "IkmhfvrLn7XgmRIeaZZWC",
+        "focus": -0.19700310369749166,
+        "gap": 13.333333333333258
+      },
+      "endBinding": {
+        "elementId": "ARIucm_ehYebJiTFjcLQh",
+        "focus": 0.06767450887881563,
+        "gap": 11.233601888020871
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "IIiUe5dv63HI3XYtGfuJy",
+      "type": "arrow",
+      "x": 963.2654416276375,
+      "y": -1806.440036043477,
+      "width": 370,
+      "height": 168.33333333333326,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1909224050,
+      "version": 81,
+      "versionNonce": 315636206,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969931621,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -370,
+          -168.33333333333326
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "IkmhfvrLn7XgmRIeaZZWC",
+        "focus": -0.4592576228434607,
+        "gap": 11.666666666666742
+      },
+      "endBinding": {
+        "elementId": "1avAaW_ukd7LB8dkcUerz",
+        "focus": -0.6880002363288595,
+        "gap": 11.486826578776004
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "K_Ms-rApPOwPzUTeVMVuu",
+      "type": "arrow",
+      "x": 1724.932108294304,
+      "y": -1584.7733693768105,
+      "width": 986.6666666666665,
+      "height": 1173.333333333333,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1823453742,
+      "version": 131,
+      "versionNonce": 427232942,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684969946952,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -776.6666666666665,
+          430
+        ],
+        [
+          -986.6666666666665,
+          1173.333333333333
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "GYzZxyXwNV3gYg8g-cha7",
+        "focus": 0.31920320991969725,
+        "gap": 1.5746088997768766
+      },
+      "endBinding": {
+        "elementId": "Hg-_pTNJFWcYELUQL8sJ4",
+        "focus": 0.021206665174120624,
+        "gap": 14.115145906758698
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "iJgvARAN_G8r6uLCuJgj2",
+      "type": "text",
+      "x": -295.06789170569266,
+      "y": -2006.440036043471,
+      "width": 459.6396484375,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 449428270,
+      "version": 40,
+      "versionNonce": 1028673006,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "vClJ24nVjOzGCIIeNZ0ip",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684970007805,
+      "link": "https://youtu.be/ABBnNjbjv2Q",
+      "locked": false,
+      "text": "TF Lattice: Control Your ML with Monotonicity",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "TF Lattice: Control Your ML with Monotonicity",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "vClJ24nVjOzGCIIeNZ0ip",
+      "type": "arrow",
+      "x": 374.9321082943071,
+      "y": -1989.7733693768046,
+      "width": 198.33333333333326,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 451463602,
+      "version": 61,
+      "versionNonce": 957763570,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684970007810,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -198.33333333333326,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "1avAaW_ukd7LB8dkcUerz",
+        "focus": 0.33333333333259363,
+        "gap": 6.666666666663787
+      },
+      "endBinding": {
+        "elementId": "iJgvARAN_G8r6uLCuJgj2",
+        "focus": 0.3333333333333212,
+        "gap": 12.027018229166515
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
     }
   ],
   "appState": {
