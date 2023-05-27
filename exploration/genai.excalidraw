@@ -1,0 +1,143 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "ersE0CXVnBGmIiA7MEn__",
+      "type": "text",
+      "x": 476,
+      "y": 398,
+      "width": 53.85997009277344,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1800521860,
+      "version": 7,
+      "versionNonce": 88248636,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685195839842,
+      "link": null,
+      "locked": false,
+      "text": "PaLM",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "PaLM",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "xcJiEfmRPiiSloDsYmva4",
+      "type": "text",
+      "x": 317.74005126953125,
+      "y": 520.7919311523438,
+      "width": 953.0791015625,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 842491524,
+      "version": 33,
+      "versionNonce": 1305807292,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685195839842,
+      "link": null,
+      "locked": false,
+      "text": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 118,
+      "containerId": null,
+      "originalText": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ksScvXLWCoZZS3ckgOYyP",
+      "type": "arrow",
+      "x": 509.859375,
+      "y": 429.0234375,
+      "width": 7.875,
+      "height": 87.375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1184924988,
+      "version": 50,
+      "versionNonce": 1831239684,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685195839845,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          7.875,
+          87.375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ersE0CXVnBGmIiA7MEn__",
+        "focus": -0.18747448443275683,
+        "gap": 6.0234375
+      },
+      "endBinding": {
+        "elementId": "xcJiEfmRPiiSloDsYmva4",
+        "focus": -0.5610360291163464,
+        "gap": 4.39349365234375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
