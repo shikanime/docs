@@ -4,11 +4,142 @@
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
-      "id": "ersE0CXVnBGmIiA7MEn__",
       "type": "text",
+      "version": 8,
+      "versionNonce": 1474962460,
+      "isDeleted": false,
+      "id": "ersE0CXVnBGmIiA7MEn__",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
       "x": 476,
       "y": 398,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
       "width": 53.85997009277344,
+      "height": 25,
+      "seed": 1800521860,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685208850900,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "PaLM",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "PaLM",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 34,
+      "versionNonce": 240040868,
+      "isDeleted": false,
+      "id": "xcJiEfmRPiiSloDsYmva4",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 317.74005126953125,
+      "y": 520.7919311523438,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 953.0791015625,
+      "height": 125,
+      "seed": 842491524,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685208850902,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "arrow",
+      "version": 50,
+      "versionNonce": 1831239684,
+      "isDeleted": false,
+      "id": "ksScvXLWCoZZS3ckgOYyP",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 509.859375,
+      "y": 429.0234375,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 7.875,
+      "height": 87.375,
+      "seed": 1184924988,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1685195839845,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "ersE0CXVnBGmIiA7MEn__",
+        "focus": -0.18747448443275683,
+        "gap": 6.0234375
+      },
+      "endBinding": {
+        "elementId": "xcJiEfmRPiiSloDsYmva4",
+        "focus": -0.5610360291163464,
+        "gap": 4.39349365234375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          7.875,
+          87.375
+        ]
+      ]
+    },
+    {
+      "id": "M3uHRfW90x2JI5zoI6Hi7",
+      "type": "text",
+      "x": -180.86309814453125,
+      "y": 410.91436767578125,
+      "width": 45.07997131347656,
       "height": 25,
       "angle": 0,
       "strokeColor": "#000000",
@@ -20,36 +151,36 @@
       "opacity": 100,
       "groupIds": [],
       "roundness": null,
-      "seed": 1800521860,
-      "version": 7,
-      "versionNonce": 88248636,
+      "seed": 1993133340,
+      "version": 50,
+      "versionNonce": 1216855844,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "id": "yqiBnmtukXkn-fj6YH6PT",
           "type": "arrow"
         }
       ],
-      "updated": 1685195839842,
+      "updated": 1685208899567,
       "link": null,
       "locked": false,
-      "text": "PaLM",
+      "text": "GPT",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 18,
       "containerId": null,
-      "originalText": "PaLM",
+      "originalText": "GPT",
       "lineHeight": 1.25
     },
     {
-      "id": "xcJiEfmRPiiSloDsYmva4",
+      "id": "ePz0vbczXsqr3Y-zGWb_E",
       "type": "text",
-      "x": 317.74005126953125,
-      "y": 520.7919311523438,
-      "width": 953.0791015625,
-      "height": 125,
+      "x": -470.3249816894531,
+      "y": 560.2474060058594,
+      "width": 678.3795166015625,
+      "height": 25,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -60,36 +191,36 @@
       "opacity": 100,
       "groupIds": [],
       "roundness": null,
-      "seed": 842491524,
-      "version": 33,
-      "versionNonce": 1305807292,
+      "seed": 1267268644,
+      "version": 44,
+      "versionNonce": 118241956,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "ksScvXLWCoZZS3ckgOYyP",
+          "id": "yqiBnmtukXkn-fj6YH6PT",
           "type": "arrow"
         }
       ],
-      "updated": 1685195839842,
-      "link": null,
+      "updated": 1685208903033,
+      "link": "https://voyager.minedojo.org/",
       "locked": false,
-      "text": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "text": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 118,
+      "baseline": 18,
       "containerId": null,
-      "originalText": "- temperature: higher means more \"creative\" responses\n- max_output_tokens: sets the max number of tokens in the output\n- top_p: higher means it will pull from more possible next tokens, based on cumulative probability\n- top_k: higher means it will sample from more possible next tokens\n",
+      "originalText": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
       "lineHeight": 1.25
     },
     {
-      "id": "ksScvXLWCoZZS3ckgOYyP",
+      "id": "yqiBnmtukXkn-fj6YH6PT",
       "type": "arrow",
-      "x": 509.859375,
-      "y": 429.0234375,
-      "width": 7.875,
-      "height": 87.375,
+      "x": -160.07440185546875,
+      "y": 442.4350280761719,
+      "width": 0,
+      "height": 108.234375,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -102,12 +233,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1184924988,
-      "version": 50,
-      "versionNonce": 1831239684,
+      "seed": 1852774556,
+      "version": 57,
+      "versionNonce": 301638428,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685195839845,
+      "updated": 1685208871022,
       "link": null,
       "locked": false,
       "points": [
@@ -116,20 +247,20 @@
           0
         ],
         [
-          7.875,
-          87.375
+          0,
+          108.234375
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "ersE0CXVnBGmIiA7MEn__",
-        "focus": -0.18747448443275683,
-        "gap": 6.0234375
+        "elementId": "M3uHRfW90x2JI5zoI6Hi7",
+        "focus": 0.07769700452991357,
+        "gap": 6.520660400390625
       },
       "endBinding": {
-        "elementId": "xcJiEfmRPiiSloDsYmva4",
-        "focus": -0.5610360291163464,
-        "gap": 4.39349365234375
+        "elementId": "ePz0vbczXsqr3Y-zGWb_E",
+        "focus": -0.08531855033528063,
+        "gap": 9.5780029296875
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
