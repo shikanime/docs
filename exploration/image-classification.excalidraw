@@ -1,0 +1,428 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Qcf1IPF_2wf1nETSAjJXh",
+      "type": "text",
+      "x": 582.4296875,
+      "y": 307.2265625,
+      "width": 292.15972900390625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1536275677,
+      "version": 22,
+      "versionNonce": 496477395,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "6dYMs-FlSwspp9XrTY49L",
+          "type": "arrow"
+        },
+        {
+          "id": "Ezx3L44OB58DpyFLzY7Ro",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685464204384,
+      "link": "https://youtu.be/FW--2KkTQ1s",
+      "locked": false,
+      "text": "Encoder-Decoder Architecture",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Encoder-Decoder Architecture",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "gazH2HTeiOkgoCGAQAY8F",
+      "type": "text",
+      "x": 848.546875,
+      "y": 456.546875,
+      "width": 56.69993591308594,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1586229597,
+      "version": 46,
+      "versionNonce": 1267831411,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Ezx3L44OB58DpyFLzY7Ro",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685464204384,
+      "link": "https://www.tensorflow.org/api_docs/python/tf/roll",
+      "locked": false,
+      "text": "tf.roll",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "tf.roll",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "gKONRdt2Rscqu9kjKQjhe",
+      "type": "text",
+      "x": 376.5413818359375,
+      "y": 442.41595458984375,
+      "width": 379.15966796875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1754322621,
+      "version": 26,
+      "versionNonce": 1450926707,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "6dYMs-FlSwspp9XrTY49L",
+          "type": "arrow"
+        },
+        {
+          "id": "z_bEd_EjwmiXzPvzXAc2m",
+          "type": "arrow"
+        },
+        {
+          "id": "2MKuKmmQvTxfeL9SEnQ-a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685464248733,
+      "link": "https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb",
+      "locked": false,
+      "text": "Image Captioning with Visual Attention",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Image Captioning with Visual Attention",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "6dYMs-FlSwspp9XrTY49L",
+      "type": "arrow",
+      "x": 724.6484375,
+      "y": 346.375,
+      "width": 174.1796875,
+      "height": 85.296875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1716638621,
+      "version": 39,
+      "versionNonce": 1783907101,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685464201663,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -174.1796875,
+          85.296875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Qcf1IPF_2wf1nETSAjJXh",
+        "focus": -0.29460661833416035,
+        "gap": 14.1484375
+      },
+      "endBinding": {
+        "elementId": "gKONRdt2Rscqu9kjKQjhe",
+        "focus": -0.29342749428871195,
+        "gap": 10.74407958984375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "Ezx3L44OB58DpyFLzY7Ro",
+      "type": "arrow",
+      "x": 730.4609375,
+      "y": 344.7578125,
+      "width": 146.421875,
+      "height": 106.453125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1180354867,
+      "version": 36,
+      "versionNonce": 501039677,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685464204387,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          146.421875,
+          106.453125
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Qcf1IPF_2wf1nETSAjJXh",
+        "focus": 0.19891865240936457,
+        "gap": 12.53125
+      },
+      "endBinding": {
+        "elementId": "gazH2HTeiOkgoCGAQAY8F",
+        "focus": 0.5383583900797628,
+        "gap": 5.3359375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "Hdq4zYB0J2o6Z9WxxjWns",
+      "type": "text",
+      "x": 73.07574462890625,
+      "y": 591.9628295898438,
+      "width": 434.11962890625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1288958621,
+      "version": 47,
+      "versionNonce": 1134910045,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "z_bEd_EjwmiXzPvzXAc2m",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685464226514,
+      "link": "https://keras.io/examples/vision/image_classification_with_vision_transformer/",
+      "locked": false,
+      "text": "Image classification with Vision Transformer",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Image classification with Vision Transformer",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "z_bEd_EjwmiXzPvzXAc2m",
+      "type": "arrow",
+      "x": 518.4951301029694,
+      "y": 480.3359375,
+      "width": 207.8597709499537,
+      "height": 101.42510986328125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 721567027,
+      "version": 85,
+      "versionNonce": 237242045,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685464226515,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -207.8597709499537,
+          101.42510986328125
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "gKONRdt2Rscqu9kjKQjhe",
+        "focus": -0.020889758709508814,
+        "gap": 12.91998291015625
+      },
+      "endBinding": {
+        "elementId": "Hdq4zYB0J2o6Z9WxxjWns",
+        "focus": -0.10724139432205217,
+        "gap": 10.2017822265625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "lzJDQy8QsbxpLDUKud02p",
+      "type": "text",
+      "x": 563.359375,
+      "y": 593.515625,
+      "width": 595.3395385742188,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 13510429,
+      "version": 50,
+      "versionNonce": 1483512851,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "2MKuKmmQvTxfeL9SEnQ-a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685464248733,
+      "link": "https://towardsdatascience.com/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8",
+      "locked": false,
+      "text": "Are Transformers better than CNN’s at Image Recognition?",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Are Transformers better than CNN’s at Image Recognition?",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "2MKuKmmQvTxfeL9SEnQ-a",
+      "type": "arrow",
+      "x": 552.4375,
+      "y": 477.953125,
+      "width": 319.21875,
+      "height": 111.109375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 554400989,
+      "version": 51,
+      "versionNonce": 659104413,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685464248736,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          319.21875,
+          111.109375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "gKONRdt2Rscqu9kjKQjhe",
+        "focus": 0.3542016655228895,
+        "gap": 10.53717041015625
+      },
+      "endBinding": {
+        "elementId": "lzJDQy8QsbxpLDUKud02p",
+        "focus": 0.1778680710193488,
+        "gap": 4.453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
