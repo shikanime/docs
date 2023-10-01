@@ -39,6 +39,7 @@
                 pkgs.nixpkgs-fmt
                 pkgs.gh
                 pkgs.glab
+                pkgs.nodejs
               ];
             }
           ];
