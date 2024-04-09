@@ -1,0 +1,340 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "j-dp0eg245cnYUMtslucj",
+      "type": "text",
+      "x": 865,
+      "y": 420,
+      "width": 185.5598602294922,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 341160163,
+      "version": 33,
+      "versionNonce": 1696292237,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "g4O_JXay4KGLUyCLykCvj",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1712686935877,
+      "link": null,
+      "locked": false,
+      "text": "Google Next 2024",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Google Next 2024",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "fu7wRqcdnhK0pqvIn2iCZ",
+      "type": "text",
+      "x": 91.697021484375,
+      "y": 602.2574462890625,
+      "width": 883.21923828125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1726293869,
+      "version": 28,
+      "versionNonce": 1961520109,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "g4O_JXay4KGLUyCLykCvj",
+          "type": "arrow"
+        },
+        {
+          "id": "Y0jzEVBxTg5Tmp0DZHCgG",
+          "type": "arrow"
+        },
+        {
+          "id": "64wKZoNrBplXuYR8PJkQo",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1712687767319,
+      "link": null,
+      "locked": false,
+      "text": "Build RAG-based large language model applications with Ray on Google Kubernetes Engine",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Build RAG-based large language model applications with Ray on Google Kubernetes Engine",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "g4O_JXay4KGLUyCLykCvj",
+      "type": "arrow",
+      "x": 964.9296875,
+      "y": 450.9296875,
+      "width": 482.61553955078125,
+      "height": 141.96112060546875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 783143587,
+      "version": 46,
+      "versionNonce": 1112679405,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1712686935877,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -482.61553955078125,
+          141.96112060546875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "j-dp0eg245cnYUMtslucj",
+        "focus": -0.5160136018106722,
+        "gap": 5.9296875
+      },
+      "endBinding": {
+        "elementId": "fu7wRqcdnhK0pqvIn2iCZ",
+        "focus": -0.2588921966105552,
+        "gap": 9.36663818359375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ihWjk9iF3fzT6J9TwGhiE",
+      "type": "text",
+      "x": 658.5924072265625,
+      "y": 754.1500854492188,
+      "width": 75.55996704101562,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1833011021,
+      "version": 27,
+      "versionNonce": 1690511565,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Y0jzEVBxTg5Tmp0DZHCgG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1712687764293,
+      "link": null,
+      "locked": false,
+      "text": "RayLLM",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "RayLLM",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Y0jzEVBxTg5Tmp0DZHCgG",
+      "type": "arrow",
+      "x": 509.79475102023025,
+      "y": 630.4296875,
+      "width": 174.93594983444336,
+      "height": 119.51519775390625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1487187203,
+      "version": 86,
+      "versionNonce": 1405032845,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1712687764293,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          174.93594983444336,
+          119.51519775390625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "fu7wRqcdnhK0pqvIn2iCZ",
+        "focus": 0.10127455509181973,
+        "gap": 3.1722412109375
+      },
+      "endBinding": {
+        "elementId": "ihWjk9iF3fzT6J9TwGhiE",
+        "focus": 0.2284370938114618,
+        "gap": 4.2052001953125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "SQQC0yKTQoXdPfbMK-fOa",
+      "type": "text",
+      "x": 162.21481323242188,
+      "y": 748.3585205078125,
+      "width": 324.51983642578125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 629891949,
+      "version": 49,
+      "versionNonce": 556699629,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "64wKZoNrBplXuYR8PJkQo",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1712687776249,
+      "link": null,
+      "locked": false,
+      "text": "Checkbox on GKE to have a Ray",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Checkbox on GKE to have a Ray",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "64wKZoNrBplXuYR8PJkQo",
+      "type": "arrow",
+      "x": 451.8073555849275,
+      "y": 638.03125,
+      "width": 136.08188868416346,
+      "height": 100.302001953125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 308912483,
+      "version": 95,
+      "versionNonce": 697514157,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1712687776250,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -136.08188868416346,
+          100.302001953125
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "fu7wRqcdnhK0pqvIn2iCZ",
+        "focus": 0.10881719269297106,
+        "gap": 10.7738037109375
+      },
+      "endBinding": {
+        "elementId": "SQQC0yKTQoXdPfbMK-fOa",
+        "focus": -0.21933944349540047,
+        "gap": 10.0252685546875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
